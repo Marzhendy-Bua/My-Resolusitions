@@ -1,3 +1,4 @@
 Componen-componen JS yang harus dipelajari:
 1. Pengulangan & Pengkondisian
 2. Function
+3. Framework JS
